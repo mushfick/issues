@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+An elixir app to fetch Issues from any GitHub repository
 
 ## Installation
 
